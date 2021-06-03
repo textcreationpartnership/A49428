@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lucifer's bull to the Pope and his prelates vvritten at the beginning of the reformation, and now published for the confirmation of Protestants, and confusion of papists.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49428</idno><idno type="EEBO-CITATION">99834586</idno>
+  <idno type="VID">39088</idno>
+  <idno type="EEBO-PROQUEST">2248543111</idno>
+  
+            <idno type="STC">Wing L3439</idno>
+            <idno type="STC">ESTC R224124</idno>
+            <idno type="PROQUEST">99834586</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834586e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1814:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lucifer's bull to the Pope and his prelates vvritten at the beginning of the reformation, and now published for the confirmation of Protestants, and confusion of papists.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Devil --  Early works to 1800.</term>
+               <term type="topical_term">Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:39088:1"/>
+            <head>LUCIFER's BULL TO THE POPE AND HIS PRELATES, Written at the beginning of the Reforma<g ref="char:EOLhyphen"/>tion, and now published for the Confirmation of <hi>Protestants,</hi> and Confusion of <hi>Papists.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>LUCIFER,</hi> Prince of darkness and profound heaviness, Emperour of the high Mysteries of the King of <hi>Acheron,</hi> Captain of the dungeon <hi>Erebus,</hi> King of Hell, and Controller of the infernal fire;</signed>
+               <salute>To all our children of pride, and companions of our Kingdom, and especially to our Princes of the Church of this later age and time (of which our adversary <hi>Jesus Christ,</hi> according to the Prophet, saith, <hi>I hate the Church or congregation of the wicked</hi>) send Greeting—:</salute>
+            </opener>
+            <p>Know ye, that in times past certain Vicars or Vicegerents of Christ, following his steps in Miracles and Vertues, living and continuing in a beggarly life, converted (in a manner) the whole World, from the yoke of our tyranny unto their doctrine and
+<pb n="1" facs="tcp:39088:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:39088:3"/>manner of life, to the great derision and contempt of our prison-house and Kingdom, and also to the no little prejudice and hurt of our jurisdiction and authority: For then received we no tribute of the World, neither did the miserable sort of common people rush at the gates of our deep dungeon as they were wont to do with continual pealing and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apping, but then the easie, pleasant and broad way that leadeth unto death, lay still without great noise of trampling travellers: and when all our Courts were without Suitors, Hell then began to howl; and thus continuing in great heavi<g ref="char:EOLhyphen"/>ness and anguish, was robbed and spoiled.</p>
+            <p>Which thing considered, the impatient rage of our stomach could no longer suffer, neither could the ugly wretchless negligence of our great Captain any longer endure. But we, seeking remedy for the time that shall come after, have provided us of a very fit expedient. For instead of these Apostles and other their Adherents which draw by the same line of theirs, as well in manners as doctrine, and are odious enemies to us, We have caused you to be their Successors, and put you in their place, which be Prelates of the Church in these later times by our great and mighty subtilty, as Christ hath said of you, <hi>They have reigned, but not by me.</hi> Once we promised <hi>Him</hi> all the Kingdoms of the World, if he would fall down and worship us; but he would not, saying, <hi>My Kingdom is not of this world;</hi> and went his way when the multitude would have made him a Temporal King. But to <hi>you</hi> truly that are faln from the state of grace, and that serve us in the earth, is that my promise fulfilled: and by our means all worldly things which we have bestowed upon you, are under your go<g ref="char:EOLhyphen"/>vernment.—For he hath said of us as ye know, <hi>The Prince of this world cometh,</hi> &amp;c. and hath mad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us to reign over all children of unbelief. Therefore our Adversaries before recited, did patiently submit themselves unto the Princes of the World, and did teach that men should do so, saying, <hi>Be ye subject to every creature for Gods cause, whether it be to the King as most chief.</hi> And again, <hi>Obey them that rule over you,</hi> &amp;c. But I think it long till we have poured our poison upon the earth, and therefore fill your selves full. And now be ye contrary to those Fathers in your life and conditions, and extoll your selves above all other men. Neither do ye give to God that which belongeth to him, nor yet to <hi>Caesar</hi> that which is his: but exercise you the power of both the Swords according to our Decrees, making your selves doers in worldly matters, fighting in our quarrel; intangled with secular labour and business. And climb ye by little and little from the miserable state of poverty, un<g ref="char:EOLhyphen"/>to the highest seats of all honours, and the most Princely places of dignity by your devised practices, and false and deceitful wiles and subtilty; that is, by hypocrisie, flattery, lying, periury, treasons, deceits, simony and other <hi>greater</hi> wickedness, than which our infernal Furies may devise. For after that ye have by us been advanced thither where ye would be, yet that doth not suffice you; but as greedy starvelings more hungry than ye were before, ye suppress the poor, scratch and rake together all that comes to hand, perverting and turning every thing topsie-turvy; so swoln, that ready ye are to burst with pride, living like Lechers in all corporal delicateness, and by fraud directing all your doings. You challenge to your selves names of honour in the earth, calling your selves Lords, holy, yea, and most holy persons.</p>
+            <p>Thus, either by violence ye raven, or else by ambition subtilly ye pilfer away, and wrongfully wrest, and by false title possess those goods, which for the sustentation of the poor members of Christ (whom from our first fall we have hated) were bestowed and given, consuming them as your selves list; and therewith ye cherish and main<g ref="char:EOLhyphen"/>tain an innumerable sort of Whores, Strumpets and Bawds, with whom ye ride pom<g ref="char:EOLhyphen"/>pously like mighty Princes, far otherwise going, than those poor beggarly Priests of the Primitive Church. For I would ye should build your selves rich and gorgeous
+<pb n="3" facs="tcp:39088:3"/>Palaces: fare like Princes, eating the daintiest meats, and drinking the pleasantest wines that may be gotten: hoard and heap together an infinite deal of treasure, not like to him that said, <hi>Gold and Silver have I none;</hi> and serve and fight for us ac<g ref="char:EOLhyphen"/>cording unto our wages. O most acceptable society, promised unto us by the Pro<g ref="char:EOLhyphen"/>phet, and of those Fathers long ago reproved, whilst that Christ called thee <hi>the Sy<g ref="char:EOLhyphen"/>nagogue of Satan,</hi> and <hi>the mighty Whore which committed fornication with the Kings of the earth,</hi> the adulterous Spouse of Christ, and of a chaste person made a strum<g ref="char:EOLhyphen"/>pet. Thou hast left thy first love, and hast cleaved unto us, O our beloved <hi>Babylon,</hi> O our Citizens, which from the transmigration of <hi>Jerusalem</hi> come hither: we love you for your deserts, we rejoice over you which contemn the Laws of <hi>Simon Peter,</hi> and embrace the Laws of <hi>Simon Magus</hi> our friend, buying and selling spiritual things in the Church of God, and against the commandment of God. Ye give bene<g ref="char:EOLhyphen"/>fices and honours by petition, or else for money, for favour, or else for filthy service. And refusing to admit those that be worthy to Ecclesiastical Dignities, and prefer<g ref="char:EOLhyphen"/>ring those that are unworthy, ye call unto the inheritance of God's Sanctuary, B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wds, Liars, Flatterers, your Nephews and your own Children, and to a childish Boy ye give many Prebends, the least whereof ye deny to bestow upon a poor good man: ye esteem the person of a man. and receive gifts, ye regard money, and have no regard of souls. Ye have made the house of God a den of thieves. All abuse, all extortion is more exercis'd a hundred fold in your judgement-seats, than with any Secular Tyrant. Ye make Laws and keep not the same, and ye dispense with your dispensations as it pleaseth you: ye justifie the wicked for rewards, and ye take away the just mans desert from him. And briefly ye commit all kind of mischief, even as it is our will ye should. And ye take much pains for lucres sake in our ser<g ref="char:EOLhyphen"/>vice, and especially to destroy the Christian faith. For now the Lay people are al<g ref="char:EOLhyphen"/>most in doubt what they may believe, because if ye preach any thing to them at some times (although it be but seldom seen, and that negligently enough, even as we would have it) yet notwithstanding they believe you not, because they see mani<g ref="char:EOLhyphen"/>festly, that ye do clean contrary to that you say. Whereupon the common people, doing as ye do who have the government of them, run headlong into a whole Sea of Vices; and so continually a very great multitude flocketh at the strong and well fenced gates of our dungeon. And thus the Sovereignty of our Empire by you hath been reformed, and our intolerable loss restored. Wherefore, most specially we commend you, and give you most hearty thanks, exhorting you all, that in anywise ye persevere and continue as hitherto ye have done. and that from henceforth ye slack not your enterprise. For why? by your helps we purpose to bring the whole World again under our power and dominion. Furthermore we counsel you which occupy the highest rooms of all other, that ye work subtilly, and that ye (feignedly) pro<g ref="char:EOLhyphen"/>cure peace between the Princes of the World, but that ye cherish and procure se<g ref="char:EOLhyphen"/>cret causes of discord. And like as craftily ye have destroyed and subverted the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Empire; so suffer ye no Kingdom to be overmuch enlarged or enriched by tran<g ref="char:EOLhyphen"/>quillity and peace; lest perhaps in so great tranquillity they dispose themselves to view and consider your most wicked works, suppressing on every side your estate; and from your treasures take away such substance, as we have caused to be reserved and kept in your hands. We would ye should do our commendations to our entirely beloved daughters, Pride, Deceit, Wrath, Avarice, Belly-chear and Lechery, and to all other my daughters; and especially to Lady Simony, which hath made you men, and inriched you, and hath given you suck with her own breasts, and weaned you, and therefore see that in no wise ye call her Sin. And be ye lofty and proud, be<g ref="char:EOLhyphen"/>cause that the most high dignity of your estate doth require such magnificence. And
+<pb n="4" facs="tcp:39088:4"/>also be ye covetous, for whatsoever ye get and gather into your fardel, it is for St. <hi>Peter,</hi> for the peace of the Church, and for the defence of your patrimony and the Crucifix; and therefore ye may lawfully do it. Ye may promote your Cardinals to the highest seat of Dignities without any lett in all the world, in stopping the mouth of our adversary Jesus Christ, and alledging again, that he preferred his kinsfolks (being but of poor and base degree) unto the Apostleship; but do not you so, but rather call, as ye do, those that live in arrogance, in haughtiness of mind and filthy lechery, unto the state of wealthy riches and pride; and those rewards and promo<g ref="char:EOLhyphen"/>tions, which the followers of Christ forsook, do ye distribute unto your friends. Therefore as ye shall have better understanding, prepare ye vices cloaked under the similitude of virtues. Alledge for your selves the glosses of the holy Scripture, and wrest them directly to serve for your purpose. And if any preach or teach otherwise than ye will, oppress ye him violently with the sentence of Excommunication, and by your Censures heaped one upon another, by the consent of your brethren, let him be condemned as an heretick, and let him be kept in most strait prison, and there tor<g ref="char:EOLhyphen"/>mented till he dye, for a terrible example to all such as confess Christ. And set<g ref="char:EOLhyphen"/>ting all favour apart, cast him out of your Temple, lest peradventure <hi>the engrafted Word may save your souls,</hi> which word I abhorr, as I do the souls of other faithful men. And do you endeavour, that ye may deserve to have the place which we have pre<g ref="char:EOLhyphen"/>pared for you, under the most wicked foundation of our dwelling place. Fare you well with such felicity as we desire, and intend finally to reward and recom<g ref="char:EOLhyphen"/>pence you with.</p>
+            <p>
+               <hi>Given at the Center of the earth, in that our dark place, where all the rabble<g ref="char:EOLhyphen"/>ment of Devils were present, specially for this purpose called unto our most dolorous Consistory, under the character of our terrible seal, for the confirmation of the premisses.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
